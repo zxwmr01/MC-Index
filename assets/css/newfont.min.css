@@ -1,0 +1,13 @@
+/* 阿里妈妈方圆体 */
+
+@font-face {
+    font-family: 'AlimamaFYT'; /* 定义字体名称 */
+    src: url('https://server.zxwmr.top/assets/fonts/almmfyt.ttf') format('truetype'); /* 指定字体文件路径和格式 */
+
+}
+
+body {
+    font-family: 'AlimamaFYT', sans-serif;
+    cursor: pointer;
+    font-size: larger;
+}
